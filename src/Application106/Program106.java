@@ -6,7 +6,7 @@ public class Program106 {
 		
 		System.out.println("Hello World!!");
 		System.out.println("Bom Dia!!");
-		
+		System.out.println("Boa Tarde!!");
 	}
 
 }
